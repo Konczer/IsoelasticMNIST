@@ -45,4 +45,4 @@ For a short (~3 min) video summary of the project in its early stage follow this
 ## Related works, links, and resources
 
 - [LossMNIST](https://github.com/BKHMSI/LossMNIST) project on GitHub
-- [Statistical Games](https://github.com/Konczer/UncertaintyTheory/tree/main/StatisticalGames) project page on GitHub and the related [arXiv paper]((https://arxiv.org/abs/2402.15892))
+- [Statistical Games](https://github.com/Konczer/UncertaintyTheory/tree/main/StatisticalGames) project page on GitHub and the related [arXiv paper](https://arxiv.org/abs/2402.15892)
